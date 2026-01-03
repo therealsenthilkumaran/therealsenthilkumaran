@@ -1,15 +1,15 @@
 <!-- ================= VISITOR COUNTER ================= -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Senthil-Kumaran&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor counter"/>
+  <img src="https://komarev.com/ghpvc/?username=Senthil-Kumaran&label=views&color=6b7280&style=flat" />
 </p>
 
-<!-- ================= HEADER ================= -->
-<h1 align="center">
-  <span>Senthil Kumaran</span>
-</h1>
+<!-- ================= TITLE ================= -->
+<h1 align="center">Senthil Kumaran</h1>
 
 <p align="center">
-  <b>B.Tech CSE (AI & ML)</b> • Systems-minded • Pragmatic learner
+  <sub>
+    B.Tech CSE (AI & ML) · Systems-minded · Pragmatic learner
+  </sub>
 </p>
 
 <p align="center">
@@ -20,81 +20,48 @@
 
 ---
 
-<!-- ================= ABOUT ================= -->
-## About
-
-I am an engineering student focused on **core computer science**, **applied AI**, and **system-level understanding**.  
-I prefer learning how things work internally rather than relying on abstractions or black-box tooling.
-
-My repositories are learning-oriented, experimental, and intentionally simple.
-
----
-
-<!-- ================= TECH STACK ================= -->
-## Technical Stack
-
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,mysql&theme=dark" />
+<!-- ================= MOTION LINE ================= -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=500&lines=learning+fundamentals;building+small+things;understanding+systems"
+  />
 </p>
 
-- **C / C++** — intermediate (logic, memory awareness)
-- **Python** — intermediate (scripting, ML workflows)
-- **SQL (MySQL)** — intermediate
-- **HTML / CSS** — basic
+---
+
+## About
+
+Core CS.  
+Applied AI.  
+Understanding over abstraction.
 
 ---
 
-### AI / ML
-- Understanding of **model inference vs training**
-- Experience running **quantized local LLMs** on constrained hardware
-- Prompt structuring with evaluation mindset
-- Hardware–model tradeoff awareness
+## Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,mysql,html,css&theme=dark" />
+</p>
 
 ---
 
-### Systems & Tooling
-- macOS + Unix-style CLI workflows
-- Git & GitHub
-- Homebrew and terminal utilities
-- Basic debugging and performance reasoning
+## Focus
+
+- Fundamentals  
+- Predictable code  
+- Small experiments  
 
 ---
 
-<!-- ================= CURRENT FOCUS ================= -->
-## Current Focus
+## Philosophy
 
-- Strengthening **CS fundamentals** (DSA, OS concepts, memory)
-- Writing predictable, readable, low-assumption code
-- Understanding AI systems beyond APIs and wrappers
-- Small, functional projects instead of showcase demos
+> Experiments over abstractions  
+> Progress over polish  
 
 ---
 
-<!-- ================= PROJECT PHILOSOPHY ================= -->
-## Project Philosophy
-
-- Learning-first repositories  
-- No artificial polish  
-- Incomplete code is acceptable if it reflects honest progress  
-- Experiments > abstractions  
-
----
-
-<!-- ================= STATS ================= -->
-## GitHub Activity
-
-- Learning-oriented commits
-- Small experimental repositories
-- Focus on fundamentals over volume
-
----
-
-<!-- ================= FOOTER ================= -->
 <p align="center">
   <sub>
-    This profile reflects current capability, not final ambition.
-    <br/>
-    Repositories may remain minimal by design.
+    Current capability · not final ambition
   </sub>
 </p>
