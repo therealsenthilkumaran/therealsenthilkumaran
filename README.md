@@ -103,30 +103,24 @@ Understanding over abstraction.
 
 ---
 
-<!-- ================= SOCIALS (SIZE CONTROLLED) ================= -->
+<!-- ================= SOCIALS ================= -->
 <p align="center">
-  <a href="https://github.com/therealsenthilkumaran">
-    <img height="28" src="https://cdn.simpleicons.org/github/9ca3af" />
-  </a>
+  <img height="26" src="https://cdn.simpleicons.org/github/9ca3af" />
   &nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/therealsenthilkumaran">
-    <img height="28" src="https://cdn.simpleicons.org/leetcode/9ca3af" />
-  </a>
+  <img height="26" src="https://cdn.simpleicons.org/leetcode/9ca3af" />
   &nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/therealsenthil">
-    <img height="28" src="https://cdn.simpleicons.org/x/9ca3af" />
-  </a>
+  <img height="26" src="https://cdn.simpleicons.org/x/9ca3af" />
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/therealsenthilkumaran">
-    <img height="28" src="https://cdn.simpleicons.org/instagram/9ca3af" />
-  </a>
+  <img height="26" src="https://cdn.simpleicons.org/instagram/9ca3af" />
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@therealsenthilkumaran">
-    <img height="28" src="https://cdn.simpleicons.org/youtube/9ca3af" />
-  </a>
+  <img height="26" src="https://cdn.simpleicons.org/youtube/9ca3af" />
 </p>
 
----
+<p align="center">
+  <sub>
+    github · leetcode · x · instagram · youtube
+  </sub>
+</p>
 
 <p align="center">
   <sub>Current capability · not final ambition</sub>
