@@ -23,7 +23,7 @@
 <!-- ================= MOTION LINE ================= -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=500&lines=learning+fundamentals;building+small+things;understanding+systems"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=500&lines=learn;build;grow"
   />
 </p>
 
