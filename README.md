@@ -14,7 +14,7 @@
 
 <p align="center">
   <sub>
-    Minimalism · Learn · Comprehend
+    Clarity · Structure · Reason
   </sub>
 </p>
 
