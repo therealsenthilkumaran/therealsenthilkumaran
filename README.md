@@ -74,7 +74,7 @@ Understanding over abstraction.
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4500&pause=1200&color=9CA3AF&center=true&vCenter=true&width=420&lines=learn;build;understand"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4500&pause=1200&color=9CA3AF&center=true&vCenter=true&width=420&lines=Discover;Comprehend;Create"
   />
 </p>
 
