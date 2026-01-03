@@ -90,9 +90,6 @@ My repositories are learning-oriented, experimental, and intentionally simple.
 
 ---
 
-This profile reflects current capability, not final ambition.  
-Repositories may remain minimal by design.
-
 <!-- ================= FOOTER ================= -->
 <p align="center">
   <sub>
