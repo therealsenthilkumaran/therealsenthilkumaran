@@ -84,15 +84,14 @@ My repositories are learning-oriented, experimental, and intentionally simple.
 <!-- ================= STATS ================= -->
 ## GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Senthil-Kumaran&show_icons=true&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Senthil-Kumaran&layout=compact&theme=transparent&hide_border=true" />
-</p>
+- Learning-oriented commits
+- Small experimental repositories
+- Focus on fundamentals over volume
 
 ---
+
+This profile reflects current capability, not final ambition.  
+Repositories may remain minimal by design.
 
 <!-- ================= FOOTER ================= -->
 <p align="center">
