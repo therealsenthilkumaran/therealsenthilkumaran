@@ -102,26 +102,12 @@ Understanding over abstraction.
 > Progress over polish  
 
 ---
-
 <!-- ================= SOCIALS ================= -->
-<p align="center">
-  <img height="26" src="https://cdn.simpleicons.org/github/9ca3af" />
-  &nbsp;&nbsp;&nbsp;
-  <img height="26" src="https://cdn.simpleicons.org/leetcode/9ca3af" />
-  &nbsp;&nbsp;&nbsp;
-  <img height="26" src="https://cdn.simpleicons.org/x/9ca3af" />
-  &nbsp;&nbsp;&nbsp;
-  <img height="26" src="https://cdn.simpleicons.org/instagram/9ca3af" />
-  &nbsp;&nbsp;&nbsp;
-  <img height="26" src="https://cdn.simpleicons.org/youtube/9ca3af" />
-</p>
 
-<p align="center">
-  <sub>
-    github · leetcode · x · instagram · youtube
-  </sub>
-</p>
-
+|  |
+| :-: |
+| [![](https://cdn.simpleicons.org/instagram/9ca3af?size=22)](https://www.instagram.com/therealsenthilkumaran/) &nbsp; [![](https://cdn.simpleicons.org/x/9ca3af?size=22)](https://x.com/therealsenthil) &nbsp; [![](https://img.shields.io/badge/-LinkedIn-9ca3af?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/senthil-kumaran-101942371) &nbsp; [![](https://cdn.simpleicons.org/youtube/9ca3af?size=22)](https://www.youtube.com/@therealsenthilkumaran) &nbsp; [![](https://cdn.simpleicons.org/leetcode/9ca3af?size=22)](https://leetcode.com/u/therealsenthilkumaran/) |
+| <sub>instagram · x · linkedin · youtube · leetcode</sub> |
 <p align="center">
   <sub>Current capability · not final ambition</sub>
 </p>
