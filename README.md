@@ -14,7 +14,7 @@
 
 <p align="center">
   <sub>
-    Minimalism over noise · Fundamentals over hype · Understanding over tools
+    Minimalism · Learn · Comprehend
   </sub>
 </p>
 
